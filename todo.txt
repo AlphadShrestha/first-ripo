@@ -2,3 +2,4 @@
 Create a .txt file 
 Add some todos
 Go home 
+Chat
